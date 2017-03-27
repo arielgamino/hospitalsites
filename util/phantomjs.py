@@ -3,7 +3,7 @@ import subprocess
 
 """
 This module has helper methods to interact with phantomjs.
-phantomjs must be on the executable path for this to work.
+phantomjs must be installed and on the executable PATH for this to work.
 """
 
 def netsniff(url):
